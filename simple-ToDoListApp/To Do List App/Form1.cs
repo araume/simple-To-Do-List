@@ -73,7 +73,6 @@ namespace To_Do_List_App
             txtboxTitle.Text = "";
             txtboxDescription.Text = "";
             isEditing = false;
-            MessageBox.Show("Malware injected successfully");
             ToDoList_Load(sender, e);
         }
 
